@@ -29,7 +29,7 @@
   
 - [hatch-aws](https://github.com/aka-raccoon/hatch-aws) 🌟(12) - Hatch plugin for building AWS Lambda functions with SAM
   
-- [hatch-regex-commit](https://github.com/frankie567/hatch-regex-commit) 🌟(11) - Hatch plugin to create a commit and tag when bumping version
+- [hatch-regex-commit](https://github.com/frankie567/hatch-regex-commit) 🌟(12) - Hatch plugin to create a commit and tag when bumping version
   
 - [hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version) 🌟(10) - Hatch plugin to read pyproject.toml metadata from package.json
   
